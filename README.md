@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://company.kncmap.com/](https://company.kncmap.com/)
 
-- 📝 I regularly write articles on [https://dadynews.com/](https://dadynews.com/)
+- 📝 I regularly write articles on [https://kncmap.com/](https://kncmap.com/)
 
 - 💬 Ask me about **Python, Machine Learning**
 
