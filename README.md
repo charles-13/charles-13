@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://company.kncmap.com/](https://company.kncmap.com/)
+- 👨‍💻 All of my projects are available at [https://kncmap.com/](https://kncmap.com/)
 
-- 📝 I regularly write articles on [https://kncmap.com/](https://kncmap.com/)
+- 📝 I regularly write articles on [https://kncmap.com/blog](https://kncmap.com/blog)
 
 - 💬 Ask me about **Python, Machine Learning**
 
