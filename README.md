@@ -84,8 +84,8 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charles-13&show_icons=true&locale=en&layout=compact" alt="charles-13" /></p>
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=charles-13&show_icons=true&locale=en&layout=compact](https://avatars.githubusercontent.com/u/62672449?v=4)" alt="charles-13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charles-13&show_icons=true&locale=en" alt="charles-13" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=charles-13&show_icons=true&locale=en](https://avatars.githubusercontent.com/u/62672449?v=4)" alt="charles-13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charles-13&" alt="charles-13" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=charles-13&](https://avatars.githubusercontent.com/u/62672449?v=4)" alt="charles-13" /></p>
