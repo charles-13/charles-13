@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Data Recovery Tool<br><br>🌱 I’m currently learning Rust<br><br>👨‍💻 All of my projects are available at https://kncmap.com/<br><br>📝 I regularly write articles on https://kncmap.com/blog<br><br>💬 Ask me about Python, Machine Learning<br><br>📫 How to reach me support@kncmap.com<br><br>📄 Know about my experiences http://www.linkedin.com/in/charles-ndung-u-392997208</p>
+<p align="left">🔭 I’m currently working on Data Recovery Tool<br><br>🌱 I’m currently learning Rust<br><br>👨‍💻 All of my projects are available at https://kncmap.com/<br><br>📝 I regularly write articles on https://kncmap.com/blog<br><br>💬 Ask me about Python, Machine Learning<br><br>📫 How to reach me charles@kncmap.com<br><br>📄 Know about my experiences http://www.linkedin.com/in/charles-ndung-u-392997208</p>
 
 ###
 
